@@ -18,29 +18,29 @@ Data storage and management systems: Databases like MySQL, MongoDB, and PostgreS
 Cloud computing platforms: AWS, Azure, and Google Cloud Platform<br>
 <br>
 
-##5 Steps into datascience:
-1 Data collection
-2 Data Preparation
-3 Data evaluation
-4 Data Model 
-5 Visualization
-Related article to read
-<Link>https://erfynaila.medium.com/the-five-steps-of-data-science-c24c661dbc9c<Link>
-<Link>https://www.geeksforgeeks.org/data-science-lifecycle/<Link>
-
-Resources:
-Python: 
-<Link>https://www.w3schools.com/python/default.asp<Link>
-SQL:
-https://www.w3schools.com/sql/default.asp
-Numpy:
-https://www.w3schools.com/python/numpy/default.asp
-Panda:
-https://www.w3schools.com/python/pandas/default.asp
-Scipy:
-https://www.w3schools.com/python/scipy/index.php
-MatplotLib:
-https://www.w3schools.com/python/matplotlib_intro.asp
-
-
+##5 Steps into datascience:<br>
+1 Data collection<br>
+2 Data Preparation<br>
+3 Data evaluation<br>
+4 Data Model <br>
+5 Visualization<br>
+Related article to read<br>
+<Link>https://erfynaila.medium.com/the-five-steps-of-data-science-c24c661dbc9c<Link><br>
+<Link>https://www.geeksforgeeks.org/data-science-lifecycle/<Link><br>
+<br>
+Resources:<br>
+Python: <br>
+<Link>https://www.w3schools.com/python/default.asp<Link><br>
+SQL:<br>
+https://www.w3schools.com/sql/default.asp<br>
+Numpy:<br>
+https://www.w3schools.com/python/numpy/default.asp<br>
+Panda:<br>
+https://www.w3schools.com/python/pandas/default.asp<br>
+Scipy:<br>
+https://www.w3schools.com/python/scipy/index.php<br>
+MatplotLib:<br>
+https://www.w3schools.com/python/matplotlib_intro.asp<br>
+<br>
+<br>
 For project: <Link>https://www.kaggle.com/<Link><br>
